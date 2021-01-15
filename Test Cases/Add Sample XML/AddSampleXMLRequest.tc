@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Post XML form Add Sample XML Request to Receive Specimen</description>
+   <name>AddSampleXMLRequest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d61449f5-21d2-4e0b-9114-2f082ee68575</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.SpecimenID</defaultValue>
+      <description></description>
+      <id>893f10f1-1aec-4022-9332-e0ae8adb6a1f</id>
+      <masked>false</masked>
+      <name>SpecimenID</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Creates Accession Plate csv file</description>
+   <name>AccessionPlate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce688d4b-f1d3-4076-aa79-0945e072990e</testCaseGuid>
+</TestCaseEntity>

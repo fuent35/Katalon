@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Application URL</description>
+      <initValue>'http://10.2.1.197/Astro/'</initValue>
+      <name>PetDxURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Username</description>
+      <initValue>'dfuentes'</initValue>
+      <name>PetDxUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password</description>
+      <initValue>'dfuentes'</initValue>
+      <name>PetDxPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>TubePlateBarcode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Extraction Type</description>
+      <initValue>'Plasma'</initValue>
+      <name>ExtractionType</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Number Of Extractions</description>
+      <initValue>'1'</initValue>
+      <name>NumberOfExtractions</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>List of Collection Tubes</description>
+      <initValue>['Test5', 'Test6']</initValue>
+      <name>CollectionTubeList</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Specimen ID</description>
+      <initValue>''</initValue>
+      <name>SpecimenID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Value obtained in Receive Specimen Task</description>
+      <initValue>''</initValue>
+      <name>Specimen</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CollectionTube</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'RDF1102021'</initValue>
+      <name>Reagent</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'KDF1102021'</initValue>
+      <name>Kit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>AccessionPlateFile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>StorageTube</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[]</initValue>
+      <name>SpecimenList</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

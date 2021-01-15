@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ProcessSpecimen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f552b128-c32f-4b0b-b774-c51b13d8837b</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.Specimen</defaultValue>
+      <description></description>
+      <id>43f5e76f-cd4f-4f02-a23e-b505789c4204</id>
+      <masked>false</masked>
+      <name>Specimen</name>
+   </variable>
+</TestCaseEntity>

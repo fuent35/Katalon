@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Extraction Task Execution</description>
+   <name>Extraction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d8ddb4c-faae-4d27-a922-715c2a055391</testCaseGuid>
+</TestCaseEntity>

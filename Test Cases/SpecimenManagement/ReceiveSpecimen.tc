@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReceiveSpecimen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f546f355-21ad-486b-950e-8a22422dde02</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.SpecimenID</defaultValue>
+      <description></description>
+      <id>f0d01f16-4d60-42fd-b793-7fd7e61231a9</id>
+      <masked>false</masked>
+      <name>SpecimenID</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Specimen</defaultValue>
+      <description></description>
+      <id>10b635cb-b177-495f-a40d-ff9268234bbd</id>
+      <masked>false</masked>
+      <name>Specimen</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.SpecimenList</defaultValue>
+      <description></description>
+      <id>f8591b52-3267-44fe-b6c6-888573b6341f</id>
+      <masked>false</masked>
+      <name>SpecimenList</name>
+   </variable>
+</TestCaseEntity>
